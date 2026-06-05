@@ -42,6 +42,20 @@ The ultrasonic sensor transmits sound waves and measures the time taken for the 
 - Industrial Safety Systems
 - Blind Assistance Devices
 
+## Project Demonstration
+
+### Green LED (Safe Distance)
+
+![Green State](green-distance-state.png)
+
+### Yellow LED (Medium Distance)
+
+![Yellow State](yellow-distance-state.png)
+
+### Red LED and Buzzer (Danger Zone)
+
+![Red State](red-alert-state.png)
+
 ## Author
 
 D Subham Kumar
